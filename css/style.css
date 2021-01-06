@@ -6,7 +6,9 @@
 @import "components/status_bar.css";
 /*scrrens*/
 @import "screens/login.css";
-
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
 body {
   font-family: "Open Sans", sans-serif;
+  height: 1000vh;
 }
