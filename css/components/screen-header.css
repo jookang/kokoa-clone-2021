@@ -12,4 +12,11 @@
 }
 .screen-header__icons span {
   margin-left: 25px;
+  font-size: medium;
+}
+.screen-header__icons {
+  display: flex;
+}
+.screen-header__icons div {
+  margin-left: 5px;
 }

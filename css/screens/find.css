@@ -1,0 +1,92 @@
+.dot {
+  background-color: tomato;
+  width: 7.5px;
+  height: 7.5px;
+  border-radius: 3.75px;
+}
+.find-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px 25px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  margin-bottom: 20px;
+}
+.find-icon__icon i {
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.recommended-friends {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.recommended-friends span {
+  opacity: 0.7;
+  font-weight: 600;
+}
+
+.recommended-friends div {
+  padding: 80px 0px;
+  font-weight: 600;
+  opacity: 0.7;
+  display: flex;
+  justify-content: center;
+}
+.open-chat__header {
+  padding: 15px 0px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.open-chat__post {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.open-chat__post-column div {
+  padding-bottom: 5px;
+}
+
+.post-text3 img {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.post-text3 {
+  display: flex;
+  align-items: center;
+}
+.northwest {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+}
+.post-text1 {
+  font-weight: 600;
+}
+.post-text2 {
+  font-size: 14px;
+  opacity: 0.6;
+}
+.post-text3 {
+  color: rgba(0, 0, 0, 0.6);
+}
+.post-text3 span {
+  padding-left: 5px;
+}
+.line {
+  width: 0.5px;
+  height: 15px;
+  margin: 0 5px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.pink {
+  color: pink;
+}
